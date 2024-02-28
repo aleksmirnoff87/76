@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Simple HTML Page</title>
+  <title>Simple # HTML Page</title>
 </head>
 <body>
   <h1>Welcome to my webpage</h1>
