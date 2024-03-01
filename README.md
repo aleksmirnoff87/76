@@ -3,7 +3,7 @@
 <html>
 <head>
   <title>Simple 
-# HTML Page</title>
+# HTML Page</Title>
 </head>
 </body>
   <h1>Welcome to my webpage</h1>
