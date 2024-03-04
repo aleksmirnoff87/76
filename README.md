@@ -2,9 +2,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>>Simple 
+  <Title>>Simple 
 # HTML P
-    page</ title>
+    page</ Title>
 </head>
 </body>
   <h1>Welcome to my webpage</h1>
