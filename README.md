@@ -1,10 +1,10 @@
 # 76
-<!DOCTYPE html>
+<!DOCTYPE HTML>
 <html>
 <head>
   <Title>>Simple 
 # HTML P
-    page</ Title>
+    page</ title>
 </head>
 </body>
   <h1>Welcome to my webpage</h1>
