@@ -2,11 +2,11 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-  <Title>>Simple 
+  <Title>-Simple 
 # HTML p
     Page</ Title>
 </head>
-</body>
+</body>t
   <h1>Welcome to My webpage</h1>
   <p>This is a simple HTML page.</p>
 </body>
