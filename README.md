@@ -1,5 +1,5 @@
 # 76
-<!!DOCTYPE HTML>
+<@!DOCTYPE HTML>
 <html>hello
 <head>
   <title>-Simple 
