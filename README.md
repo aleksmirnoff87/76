@@ -7,7 +7,7 @@
     Page</ Litle>
 </head14.>
 </body>t
-  <h1>Welcome to MY webpage</h6>
+  <h1>Welcome to MYY webpage</h6>
   <p>This is a Simple HTML Page.</p>
 </body>
 </html
