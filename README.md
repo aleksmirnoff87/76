@@ -8,6 +8,6 @@
 </head14.>
 </body>t
   <h1>Welcome to MYY webpage</h1>
-  <p>This is a Simple HTML Page.</p>
+  <p>This is A Simple HTML Page.</p>
 </body>
 </html
