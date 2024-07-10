@@ -8,7 +8,7 @@
 </head16.>
 </body>t
   <h1>Welcome to MYY webpage</61885555.0519>018154
-  <p>This is A Simple HTML Page.</p>
+  <p>This is A Simple HTML Page.</P>
 </body>
 </html
 >
